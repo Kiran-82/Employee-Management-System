@@ -27,3 +27,18 @@ A web-based application built with Django for managing employee details efficien
    ```bash
    git clone https://github.com/yourusername/employee-management-system.git
 
+sample output
+### Login
+![Login Image](sample_output/login.png)
+
+### Dashboard
+![Dashboard Image](sample_output/dashboard.png)
+
+### Add Employee
+![Add Employee Image](sample_output/add.png)
+
+### Edit Employee
+![Edit Employee Image](sample_output/edit.png)
+
+### Employee List
+![Employee List Image](sample_output/employeelist.png)
