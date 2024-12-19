@@ -42,6 +42,12 @@ sample output
 ![Add Employee Image](sample%20output/add.png)
 ### Add details
 ![Login fill](sample%20output/add%20details.png)
+### Email already in use
+![Login fill](sample%20output/email.png)
+### only valid file upload
+![Login fill](sample%20output/pngorjpg.png)
+### valid mobile number
+![Login fill](sample%20output/validnum.png)
 ### Edit Employee
 ![Edit Employee Image](sample%20output/edit.png)
 
