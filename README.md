@@ -25,7 +25,7 @@ A web-based application built with Django for managing employee details efficien
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/Kiran-82/Employee-Management-System.git
 
 sample output
 ### Login
