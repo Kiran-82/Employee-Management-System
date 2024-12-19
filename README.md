@@ -33,7 +33,11 @@ sample output
 
 ### Dashboard
 ![Dashboard Image](sample%20output/dashboard.png)
+### Employee List
+![Employee List Image](sample%20output/employee%20list.png)
 
+### Employee List search
+![Employee List Image](sample%20output/search.png)
 ### Add Employee
 ![Add Employee Image](sample%20output/add.png)
 ### Add details
@@ -41,8 +45,4 @@ sample output
 ### Edit Employee
 ![Edit Employee Image](sample%20output/edit.png)
 
-### Employee List
-![Employee List Image](sample%20output/employee%20list.png)
 
-### Employee List search
-![Employee List Image](sample%20output/search.png)
