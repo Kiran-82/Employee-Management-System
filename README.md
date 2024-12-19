@@ -29,16 +29,17 @@ A web-based application built with Django for managing employee details efficien
 
 sample output
 ### Login
-![Login Image](sample_output/login.png)
+![Login Image](sample%20output/login.png)
 
 ### Dashboard
-![Dashboard Image](sample_output/dashboard.png)
+![Dashboard Image](sample%20output/dashboard.png)
 
 ### Add Employee
-![Add Employee Image](sample_output/add.png)
-
+![Add Employee Image](sample%20output/add.png)
+### Add details
+![Login fill](sample%20output/add%20details.png)
 ### Edit Employee
-![Edit Employee Image](sample_output/edit.png)
+![Edit Employee Image](sample%20output/edit.png)
 
 ### Employee List
-![Employee List Image](sample_output/employeelist.png)
+![Employee List Image](sample%20output/employee%20list.png)
